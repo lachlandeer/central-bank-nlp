@@ -1,0 +1,14 @@
+The Federal Reserve has made the following decisions to implement the monetary policy stance announced by the Federal Open Market Committee in its statement on March 16, 2016:
+
+The Board of Governors of the Federal Reserve System left unchanged the interest rate paid on required and excess reserve balances at 0.50 percent.
+
+As part of its policy decision, the Federal Open Market Committee voted to authorize and direct the Open Market Desk at the Federal Reserve Bank of New York, until instructed otherwise, to execute transactions in the System Open Market Account in accordance with the following domestic policy directive:
+
+"Effective March 17, 2016, the Federal Open Market Committee directs the Desk to undertake open market operations as necessary to maintain the federal funds rate in a target range of 1/4 to 1/2 percent, including overnight reverse repurchase operations (and reverse repurchase operations with maturities of more than one day when necessary to accommodate weekend, holiday, or similar trading conventions) at an offering rate of 0.25 percent, in amounts limited only by the value of Treasury securities held outright in the System Open Market Account that are available for such operations and by a per-counterparty limit of $30 billion per day.
+
+The Committee directs the Desk to continue rolling over maturing Treasury securities at auction and to continue reinvesting principal payments on all agency debt and agency mortgage-backed securities in agency mortgage-backed securities. The Committee also directs the Desk to engage in dollar roll and coupon swap transactions as necessary to facilitate settlement of the Federal Reserve's agency mortgage-backed securities transactions."
+
+More information regarding open market operations may be found on the Federal Reserve Bank of New York's website.
+
+The Board of Governors of the Federal Reserve System took no action to change the discount rate (the primary credit rate), which remains at 1.00 percent.
+This information will be updated as appropriate to reflect decisions of the Federal Open Market Committee or the Board of Governors regarding details of the Federal Reserve's operational tools and approach used to implement monetary policy.
