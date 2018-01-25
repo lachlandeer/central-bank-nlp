@@ -12,7 +12,10 @@ The notebook Sentiment Analysis R is where I am learning how to do text mining i
 
 #### Challenges
 
+Scraping to download communications would be best to get the data. Right now I am copying the communications and putting them in text files. I need to explore more how I can use scraping to get quicker access to text data.
+
 I am struggling to load all of the fomc text data so I can use more documents than one. Right now, I am cutting and pasting a text document and then doing analysis on it.
+
 
 ### Resource
 
