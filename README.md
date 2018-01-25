@@ -4,9 +4,15 @@ A text corpus of central bank communications. I hope it is useful. Please submit
 
 The New Zealand Central Bank corpus is in folders by year. The United States Central Bank Corpus is a list and not in folder by year. The reason for doing so is because I do not know the best way to structure a corpus.
 
-The Sentiment Analysis R notebook takes from the Text Mining with R book.
-
 "As you learn more apply this knowledge to the whole corpus and be prepared to make changes, including leaving out data you have gathered, if this improves the final corpus. Keep a detailed record of the data you collect." David Evans, University of Nottingham
+
+### Natural Language Processing
+
+The notebook Sentiment Analysis R is where I am learning how to do text mining in R with my central bank text data. 
+
+#### Challenges
+
+I am struggling to load all of the fomc text data so I can use more documents than one. Right now, I am cutting and pasting a text document and then doing analysis on it.
 
 ### Resource
 
