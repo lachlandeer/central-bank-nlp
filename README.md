@@ -17,9 +17,20 @@ Scraping to download communications would be best to get the data. Right now I a
 I am struggling to load all of the fomc text data so I can use more documents than one. Right now, I am cutting and pasting a text document and then doing analysis on it.
 
 
-### Resource
+### Similar Work
+
+- [ FOMC Communication Policy and the Accuracy of Fed Funds Futures ](https://www.newyorkfed.org/research/staff_reports/sr491.html)
+- [Fedspeak: Who Moves U.S. Asset Prices?](http://www.ijcb.org/journal/ijcb16q4a6.htm)
+
+### Resources
 
 - [Text Mining with R by Julia Silge and David Robinson](https://www.tidytextmining.com/tidytext.html)
 - [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
 - [A Primer on Neural Network Models for Natural Language Processing]
 (http://u.cs.biu.ac.il/~yogo/nnlp.pdf)
+
+- [ A Roadmap towards Machine Intelligence](https://arxiv.org/abs/1511.08130)
+- [ Reading Wikipedia to Answer Open-Domain Questions](https://arxiv.org/abs/1704.00051)
+- [ Simple and Effective Multi-Paragraph Reading Comprehension](https://arxiv.org/abs/1710.10723)
+- [ SQuAD: 100,000+ Questions for Machine Comprehension of Text](https://arxiv.org/abs/1606.05250)
+
