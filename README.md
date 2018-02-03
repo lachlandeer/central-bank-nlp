@@ -4,6 +4,8 @@ A text corpus of central bank communications. I hope it is useful. Please submit
 
 The New Zealand Central Bank corpus is in folders by year. The United States Central Bank Corpus is a list and not in folder by year. The reason for doing so is because I do not know the best way to structure a corpus.
 
+I have added word vectors using fastText. 
+
 "As you learn more apply this knowledge to the whole corpus and be prepared to make changes, including leaving out data you have gathered, if this improves the final corpus. Keep a detailed record of the data you collect." David Evans, University of Nottingham
 
 ### Natural Language Processing
@@ -33,4 +35,10 @@ I am struggling to load all of the fomc text data so I can use more documents th
 - [ Reading Wikipedia to Answer Open-Domain Questions](https://arxiv.org/abs/1704.00051)
 - [ Simple and Effective Multi-Paragraph Reading Comprehension](https://arxiv.org/abs/1710.10723)
 - [ SQuAD: 100,000+ Questions for Machine Comprehension of Text](https://arxiv.org/abs/1606.05250)
+- [ Teaching Machines to Read and Comprehend](https://arxiv.org/abs/1506.03340)
+- [ Bidirectional Attention Flow for Machine Comprehension](https://arxiv.org/abs/1611.01603)
 
+- [Search Engines Information Retrieval in Practice](https://ciir.cs.umass.edu/irbook/)
+- [Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/information-retrieval-book.html)
+- [INFORMATION RETRIEVAL](http://www.dcs.gla.ac.uk/Keith/Preface.html)
+- [Foundations of Statistical Natural Language Processing](https://nlp.stanford.edu/fsnlp/)
