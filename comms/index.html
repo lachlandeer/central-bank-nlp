@@ -1,0 +1,43 @@
+<html>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.4.3/p5.min.js"></script>
+  <script src="rita.min.js"></script>
+  <script>
+    var lines, markov, data1, data2, x = 160, y = 240;
+
+ function preload() {
+   data1 = loadStrings('../data/cb_text.txt');
+   data2 = loadStrings('../data/shakes.txt');
+ }
+ 
+ function setup() {
+ 
+   createCanvas(500, 500);
+   textFont('times', 16);
+   textAlign(LEFT);
+ 
+   lines = ["click to (re)generate!"];
+ 
+   // create a markov model w' n=4
+   markov = new RiMarkov(5);
+ 
+   // load text into the model
+   markov.loadText(data1.join(' '));
+   markov.loadText(data2.join(' '));
+ 
+   drawText();
+ }
+ 
+ function drawText() {
+ 
+   background(250);
+   text(lines.join(' '), x, y, 400, 400);
+ }
+ 
+ function mouseClicked() {
+ 
+   x = y = 50;
+   lines = markov.generateSentences(10);
+   drawText();
+ }
+  </script>
+</html>
