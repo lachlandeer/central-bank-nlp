@@ -1,16 +1,15 @@
-# Central Bank Text Corpus
+# Central Bank NLP
 
-A text corpus of central bank communications. I hope it is useful. Please submit an issue if it is not. 
+A resource for natural language processing central bank communications. I hope it is useful. Please submit an issue if it is not or email me [john.rieth@outlook.com](john.rieth@outlook.com)
 
-I have created word vectors using fastText from the usa-central-bank/fomc-statements foler. I plan on adding more because the text is small and thus the vectors are  [text vectors](https://storage.googleapis.com/cbtext/fomc.vec) + [bin](https://storage.googleapis.com/cbtext/fomc.bin)
+I have created word vectors using fastText from the usa-central-bank/fomc-statements folder. the vectors are  [text vectors](https://storage.googleapis.com/cbtext/fomc.vec) + [bin](https://storage.googleapis.com/cbtext/fomc.bin)
 
-"As you learn more apply this knowledge to the whole corpus and be prepared to make changes, including leaving out data you have gathered, if this improves the final corpus. Keep a detailed record of the data you collect." David Evans, University of Nottingham
 
 ### Natural Language Processing
 
 The notebook Sentiment Analysis R is where I am learning how to do text mining in R with the central bank text data. The spacy.ipynb notebook is for playing around with the [spacy python library](https://spacy.io/).
 
-### Natula Language Generation
+### Natural Language Generation
 
 The folder nlg holds examples of natural language generation using the tools [rita](http://rednoise.org/rita/) and [markovify](https://github.com/jsvine/markovify).
 
@@ -35,5 +34,5 @@ The folder nlg holds examples of natural language generation using the tools [ri
 
 - [Search Engines Information Retrieval in Practice](https://ciir.cs.umass.edu/irbook/)
 - [Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/information-retrieval-book.html)
-- [INFORMATION RETRIEVAL](http://www.dcs.gla.ac.uk/Keith/Preface.html)
+- [Information Retrieval](http://www.dcs.gla.ac.uk/Keith/Preface.html)
 - [Foundations of Statistical Natural Language Processing](https://nlp.stanford.edu/fsnlp/)
