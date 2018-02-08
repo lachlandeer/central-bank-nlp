@@ -2,22 +2,17 @@
 
 A text corpus of central bank communications. I hope it is useful. Please submit an issue if it is not. 
 
-The New Zealand Central Bank corpus is in folders by year. The United States Central Bank Corpus is a list and not in folder by year. The reason for doing so is because I do not know the best way to structure a corpus.
-
-I have added word vectors using fastText. [text vectors](https://storage.googleapis.com/cbtext/fomc.vec) + [bin](https://storage.googleapis.com/cbtext/fomc.bin)
+I have created word vectors using fastText from the usa-central-bank/fomc-statements foler. I plan on adding more because the text is small and thus the vectors are  [text vectors](https://storage.googleapis.com/cbtext/fomc.vec) + [bin](https://storage.googleapis.com/cbtext/fomc.bin)
 
 "As you learn more apply this knowledge to the whole corpus and be prepared to make changes, including leaving out data you have gathered, if this improves the final corpus. Keep a detailed record of the data you collect." David Evans, University of Nottingham
 
 ### Natural Language Processing
 
-The notebook Sentiment Analysis R is where I am learning how to do text mining in R with my central bank text data. 
+The notebook Sentiment Analysis R is where I am learning how to do text mining in R with the central bank text data. The spacy.ipynb notebook is for playing around with the [spacy python library](https://spacy.io/).
 
-#### Challenges
+### Natula Language Generation
 
-Scraping to download communications would be best to get the data. Right now I am copying the communications and putting them in text files. I need to explore more how I can use scraping to get quicker access to text data.
-
-I am struggling to load all of the fomc text data so I can use more documents than one. Right now, I am cutting and pasting a text document and then doing analysis on it.
-
+The folder nlg holds examples of natural language generation using the tools [rita](http://rednoise.org/rita/) and [markovify](https://github.com/jsvine/markovify).
 
 ### Similar Work
 
