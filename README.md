@@ -22,8 +22,7 @@ The folder nlg holds examples of natural language generation using the tools [ri
 
 - [Text Mining with R by Julia Silge and David Robinson](https://www.tidytextmining.com/tidytext.html)
 - [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
-- [A Primer on Neural Network Models for Natural Language Processing]
-(http://u.cs.biu.ac.il/~yogo/nnlp.pdf)
+- [A Primer on Neural Network Models for Natural Language Processing](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)
 
 - [ A Roadmap towards Machine Intelligence](https://arxiv.org/abs/1511.08130)
 - [ Reading Wikipedia to Answer Open-Domain Questions](https://arxiv.org/abs/1704.00051)
